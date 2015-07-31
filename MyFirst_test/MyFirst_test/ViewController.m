@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSLog(@"I am MyFirstTest");
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"I am myfirstTest01");
+    NSLog(@"I am myfirstTest02");
      self.view.backgroundColor=[UIColor redColor];
 }
 - (IBAction)tapButton:(id)sender {
